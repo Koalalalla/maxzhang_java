@@ -1,6 +1,0 @@
-Robinson Crusoe;Adventure;1;20
-Three body1;Science;2;25
-Jane Eyre;Plot;3;30
-Three body2;Science;4;30
-Little Prince;Adventure;5;17
-charlot;fiction;7;43
